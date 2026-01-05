@@ -22,12 +22,12 @@
 | **Add SMTP Servers** | **Add E-Mail Adresses** |
 |:---:|:---:|
 | ![Bulk Email Sending Progress - Real Time Logs](https://i.ibb.co/Kcsfv2Rc/Screenshot-2026-01-05-at-11-18-52.png) | ![Email Randomizer - Anti-Spam Configuration](https://i.ibb.co/8LX6JDZX/Screenshot-2026-01-05-at-11-19-02.png) |
-| *Live campaign execution with real-time logs* | *Anti-spam settings and subject shuffling* |
+| *Add, remove, and test multiple SMTP connections* | *Add your email lists* |
 
 | **Send Campaigns** | **Randomizer Settings** |
 |:---:|:---:|
 | ![Mass Mailer SMTP Configuration - Bulk Email Server Setup](https://i.ibb.co/PZ1Xh2w1/Screenshot-2026-01-05-at-11-19-15.png) | ![HTML Email Editor - Mass Mailer Content Management](https://i.ibb.co/NnFSsLYP/Screenshot-2026-01-05-at-11-19-09.png) |
-| *Add, remove, and test multiple SMTP connections* | *Compose HTML emails and manage recipient lists* |
+| *Live campaign execution with real-time logs* | *Anti-spam settings and subject shuffling* |
 
 ---
 
